@@ -1,0 +1,225 @@
+{
+	"A-Assault Core": {
+        "printouts": {
+            "English name": [
+                "A-Assault Core"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Ignition Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Ignition_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Continuous Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Continuous_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Trigger Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Trigger_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Monster Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Monster_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [
+                {
+                    "fulltext": "Effect Monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Effect_Monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Secondary type": [
+                {
+                    "fulltext": "Union monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Union_monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Attribute": [
+                {
+                    "fulltext": "LIGHT",
+                    "fullurl": "http://yugioh.wikia.com/wiki/LIGHT",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Type": [
+                {
+                    "fulltext": "Machine",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Machine",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Stars": [
+                4
+            ],
+            "ATK": [
+                1900
+            ],
+            "DEF": [
+                200
+            ]
+        }
+    },
+    "\"A\" Cell Breeding Device": {
+        "printouts": {
+            "English name": [
+                "\"A\" Cell Breeding Device"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Trigger-like Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Trigger-like_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Continuous Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Continuous_Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [],
+            "Secondary type": [],
+            "Attribute": [],
+            "Type": [],
+            "Stars": [],
+            "ATK": [],
+            "DEF": []
+        }
+    },
+    "\"A\" Cell Incubator": {
+        "printouts": {
+            "English name": [
+                "\"A\" Cell Incubator"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Continuous-like Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Continuous-like_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Trigger-like Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Trigger-like_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Continuous Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Continuous_Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [],
+            "Secondary type": [],
+            "Attribute": [],
+            "Type": [],
+            "Stars": [],
+            "ATK": [],
+            "DEF": []
+        }
+    },
+    "Ojama Trio": {
+            "printouts": {
+                "English name": [
+                    "Ojama Trio"
+                ],
+                "Effect type": [
+                    {
+                        "fulltext": "Card effect",
+                        "fullurl": "http://yugioh.wikia.com/wiki/Card_effect",
+                        "namespace": 0,
+                        "exists": "1",
+                        "displaytitle": ""
+                    },
+                    {
+                        "fulltext": "Lingering Effect",
+                        "fullurl": "http://yugioh.wikia.com/wiki/Lingering_Effect",
+                        "namespace": 0,
+                        "exists": "1",
+                        "displaytitle": ""
+                    }
+                ],
+                "Card type": [
+                    {
+                        "fulltext": "Trap Card",
+                        "fullurl": "http://yugioh.wikia.com/wiki/Trap_Card",
+                        "namespace": 0,
+                        "exists": "1",
+                        "displaytitle": ""
+                    },
+                    {
+                        "fulltext": "Normal Trap Card",
+                        "fullurl": "http://yugioh.wikia.com/wiki/Normal_Trap_Card",
+                        "namespace": 0,
+                        "exists": "1",
+                        "displaytitle": ""
+                    }
+                ],
+                "Primary type": [],
+                "Secondary type": [],
+                "Attribute": [],
+                "Type": [],
+                "Stars": [],
+                "ATK": [],
+                "DEF": []
+            }
+        }
+        
+}

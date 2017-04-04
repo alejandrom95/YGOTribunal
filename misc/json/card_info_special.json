@@ -1,0 +1,661 @@
+{
+    "\"A\" Cell Breeding Device": {
+        "printouts": {
+            "English name": [
+                "\"A\" Cell Breeding Device"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Trigger-like Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Trigger-like_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Continuous Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Continuous_Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [],
+            "Secondary type": [],
+            "Attribute": [],
+            "Type": [],
+            "Stars": [],
+            "ATK": [],
+            "DEF": []
+        }
+    },
+    "\"A\" Cell Incubator": {
+        "printouts": {
+            "English name": [
+                "\"A\" Cell Incubator"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Continuous-like Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Continuous-like_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Trigger-like Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Trigger-like_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Continuous Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Continuous_Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [],
+            "Secondary type": [],
+            "Attribute": [],
+            "Type": [],
+            "Stars": [],
+            "ATK": [],
+            "DEF": []
+        }
+    },
+    "\"A\" Cell Recombination Device": {
+        "printouts": {
+            "English name": [
+                "\"A\" Cell Recombination Device"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Card effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Card_effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Ignition-like Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Ignition-like_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Quick-Play Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Quick-Play_Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [],
+            "Secondary type": [],
+            "Attribute": [],
+            "Type": [],
+            "Stars": [],
+            "ATK": [],
+            "DEF": []
+        }
+    },
+    "\"A\" Cell Scatter Burst": {
+        "printouts": {
+            "English name": [
+                "\"A\" Cell Scatter Burst"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Card effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Card_effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Quick-Play Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Quick-Play_Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [],
+            "Secondary type": [],
+            "Attribute": [],
+            "Type": [],
+            "Stars": [],
+            "ATK": [],
+            "DEF": []
+        }
+    },
+    "The 13th Grave": {
+        "printouts": {
+            "English name": [
+                "The 13th Grave"
+            ],
+            "Effect type": [],
+            "Card type": [
+                {
+                    "fulltext": "Monster Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Monster_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Normal Monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Normal_Monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [
+                {
+                    "fulltext": "Normal Monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Normal_Monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Secondary type": [],
+            "Attribute": [
+                {
+                    "fulltext": "DARK",
+                    "fullurl": "http://yugioh.wikia.com/wiki/DARK",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Type": [
+                {
+                    "fulltext": "Zombie",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Zombie",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Stars": [
+                3
+            ],
+            "ATK": [
+                1200
+            ],
+            "DEF": [
+                900
+            ]
+        }
+    },
+    "1st Movement Solo": {
+        "printouts": {
+            "English name": [
+                "1st Movement Solo"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Activation requirement",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Activation_requirement",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Card effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Card_effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Condition",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Condition",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Normal Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Normal_Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [],
+            "Secondary type": [],
+            "Attribute": [],
+            "Type": [],
+            "Stars": [],
+            "ATK": [],
+            "DEF": []
+        }
+    },
+    "3-Hump Lacooda": {
+        "printouts": {
+            "English name": [
+                "3-Hump Lacooda"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Ignition Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Ignition_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Monster Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Monster_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Effect Monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Effect_Monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [
+                {
+                    "fulltext": "Effect Monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Effect_Monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Secondary type": [],
+            "Attribute": [
+                {
+                    "fulltext": "EARTH",
+                    "fullurl": "http://yugioh.wikia.com/wiki/EARTH",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Type": [
+                {
+                    "fulltext": "Beast",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Beast",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Stars": [
+                3
+            ],
+            "ATK": [
+                500
+            ],
+            "DEF": [
+                1500
+            ]
+        }
+    },
+    "4-Starred Ladybug of Doom": {
+        "printouts": {
+            "English name": [
+                "4-Starred Ladybug of Doom"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Flip effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Flip_effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Monster Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Monster_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [
+                {
+                    "fulltext": "Effect Monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Effect_Monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Secondary type": [
+                {
+                    "fulltext": "Flip monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Flip_monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Attribute": [
+                {
+                    "fulltext": "WIND",
+                    "fullurl": "http://yugioh.wikia.com/wiki/WIND",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Type": [
+                {
+                    "fulltext": "Insect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Insect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Stars": [
+                3
+            ],
+            "ATK": [
+                800
+            ],
+            "DEF": [
+                1200
+            ]
+        }
+    },
+    "7": {
+        "printouts": {
+            "English name": [
+                "7"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Card effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Card_effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Trigger-like Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Trigger-like_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Continuous Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Continuous_Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [],
+            "Secondary type": [],
+            "Attribute": [],
+            "Type": [],
+            "Stars": [],
+            "ATK": [],
+            "DEF": []
+        }
+    },
+    "7 Colored Fish": {
+        "printouts": {
+            "English name": [
+                "7 Colored Fish"
+            ],
+            "Effect type": [],
+            "Card type": [
+                {
+                    "fulltext": "Monster Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Monster_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Normal Monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Normal_Monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [
+                {
+                    "fulltext": "Normal Monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Normal_Monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Secondary type": [],
+            "Attribute": [
+                {
+                    "fulltext": "WATER",
+                    "fullurl": "http://yugioh.wikia.com/wiki/WATER",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Type": [
+                {
+                    "fulltext": "Fish",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Fish",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Stars": [
+                4
+            ],
+            "ATK": [
+                1800
+            ],
+            "DEF": [
+                800
+            ]
+        }
+    },
+    "7 Completed": {
+        "printouts": {
+            "English name": [
+                "7 Completed"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Condition",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Condition",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Continuous-like Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Continuous-like_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Equip Spell Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Equip_Spell_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [],
+            "Secondary type": [],
+            "Attribute": [],
+            "Type": [],
+            "Stars": [],
+            "ATK": [],
+            "DEF": []
+        }
+    },
+    "8-Claws Scorpion": {
+        "printouts": {
+            "English name": [
+                "8-Claws Scorpion"
+            ],
+            "Effect type": [
+                {
+                    "fulltext": "Ignition Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Ignition_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Trigger Effect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Trigger_Effect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Card type": [
+                {
+                    "fulltext": "Monster Card",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Monster_Card",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                },
+                {
+                    "fulltext": "Effect Monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Effect_Monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Primary type": [
+                {
+                    "fulltext": "Effect Monster",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Effect_Monster",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Secondary type": [],
+            "Attribute": [
+                {
+                    "fulltext": "DARK",
+                    "fullurl": "http://yugioh.wikia.com/wiki/DARK",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Type": [
+                {
+                    "fulltext": "Insect",
+                    "fullurl": "http://yugioh.wikia.com/wiki/Insect",
+                    "namespace": 0,
+                    "exists": "1",
+                    "displaytitle": ""
+                }
+            ],
+            "Stars": [
+                2
+            ],
+            "ATK": [
+                300
+            ],
+            "DEF": [
+                200
+            ]
+        }
+    }
+}
