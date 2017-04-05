@@ -32,13 +32,14 @@ class ModelLogin {
 		$query_result = mysqli_query($this->dbConn,$sqlStmt);
 		if($query_result <> false) {
 			mysqli_next_result($this->dbConn);
-			// mysqli_close($this->dbConn);
+			mysqli_close($this->dbConn);
 
 			$_SESSION['login_status'] = 'LOGGED_IN';
 			header('location: /');
 		}
 		else {
 			mysqli_next_result($this->dbConn);
+			mysqli_close($this->dbConn);
 			header('location: /?error=signup_error');
 		}
 		
@@ -55,10 +56,12 @@ class ModelLogin {
 		$pw = mysqli_fetch_row($query_result);
 		if (password_verify($this->password, $pw[0])) {
 		    mysqli_next_result($this->dbConn);
+		    mysqli_close($this->dbConn);
 			$_SESSION['login_status'] = 'LOGGED_IN';
 			header('location: /');
 		} else {
 		    mysqli_next_result($this->dbConn);
+		    mysqli_close($this->dbConn);
 			header('location: /?error=login_error');
 		}
     }

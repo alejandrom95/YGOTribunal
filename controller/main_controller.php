@@ -31,6 +31,17 @@ class MainController {
             // echo $target.$action.'...'.'...';
             echo $view->display();
         }
+        if($target === 'discussion') {
+            require_once('model/ModelDiscussion.php');
+            require_once('view/ViewDiscussion.php');
+            require_once('controller/ControllerDiscussion.php');
+
+            $model = new ModelDiscussion();
+            $controller = new ControllerDiscussion($model, $action);
+            $view = new ViewDiscussion($model);
+            // echo $target.$action.'...'.'...';
+            echo $view->display();
+        }
 
     }
 
